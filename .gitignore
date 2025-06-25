@@ -1,0 +1,15 @@
+# Shapefiles and large exports
+data/
+output/
+*.tif
+*.zip
+*.shp
+*.dbf
+*.prj
+*.shx
+
+# Python junk
+__pycache__/
+*.pyc
+.env
+.venv/
