@@ -1,0 +1,378 @@
+{
+  "survey_date": "2022-07-11",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "YEB",
+      "count": 634,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.94,
+        "total": 269002.0,
+        "quartile": "0.5-0.8"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 70.44
+    },
+    {
+      "species_name": "NOP",
+      "count": 49,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.02,
+        "total": 22652.0,
+        "quartile": "2.0-3.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 5.44
+    },
+    {
+      "species_name": "FRD",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.54,
+        "total": 9641.0,
+        "quartile": "0.4-1.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "CAP",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 7.7,
+        "total": 6981.0,
+        "quartile": "1.9-5.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "LMB",
+      "count": 129,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.84,
+        "total": 49230.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 111.66
+    },
+    {
+      "species_name": "YEB",
+      "count": 62,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.73,
+        "total": 20663.0,
+        "quartile": "0.5-0.8"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 5.17
+    },
+    {
+      "species_name": "NOP",
+      "count": 18,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.93,
+        "total": 7570.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 1.5
+    },
+    {
+      "species_name": "HSF",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.5,
+        "total": 452.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "WAE",
+      "count": 29,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.67,
+        "total": 21917.0,
+        "quartile": "1.2-2.7"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 3.22
+    },
+    {
+      "species_name": "HSF",
+      "count": 13,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.23,
+        "total": 1329.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 1.08
+    },
+    {
+      "species_name": "LMB",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.99,
+        "total": 6278.0,
+        "quartile": "0.4-1.0"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.56
+    },
+    {
+      "species_name": "BLG",
+      "count": 54,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.19,
+        "total": 4619.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 6.0
+    },
+    {
+      "species_name": "PMK",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.19,
+        "total": 1207.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.56
+    },
+    {
+      "species_name": "BOF",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.02,
+        "total": 3673.0,
+        "quartile": "2.4-4.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.44
+    },
+    {
+      "species_name": "BLC",
+      "count": 36,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.27,
+        "total": 4392.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 4.0
+    },
+    {
+      "species_name": "BLB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.56,
+        "total": 707.0,
+        "quartile": "0.3-0.7"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "WAE",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 4.82,
+        "total": 8743.0,
+        "quartile": "0.8-2.8"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.33
+    },
+    {
+      "species_name": "BLG",
+      "count": 187,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.15,
+        "total": 13112.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 15.58
+    },
+    {
+      "species_name": "PMK",
+      "count": 24,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.2,
+        "total": 2139.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.0
+    },
+    {
+      "species_name": "BOF",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.2,
+        "total": 8700.0,
+        "quartile": "2.3-4.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "WTS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 4.44,
+        "total": 2013.0,
+        "quartile": "1.6-2.8"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.08
+    },
+    {
+      "species_name": "FRD",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.73,
+        "total": 2477.0,
+        "quartile": "0.3-1.1"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "BLC",
+      "count": 24,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.3,
+        "total": 3221.0,
+        "quartile": "0.2-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.0
+    }
+  ],
+  "total_fish_caught": 1315,
+  "dowlknum": "40005700",
+  "fetch_timestamp": 1757117104.1502874
+}

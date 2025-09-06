@@ -1,0 +1,90 @@
+{
+  "survey_date": "2008-09-02",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "WTS",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.89,
+        "total": 5651.0,
+        "quartile": "1.1-2.5"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.8
+    },
+    {
+      "species_name": "BLG",
+      "count": 533,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.07,
+        "total": 18052.0,
+        "quartile": "0.2-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 106.6
+    },
+    {
+      "species_name": "LMB",
+      "count": 25,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.03,
+        "total": 11676.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 18.75
+    },
+    {
+      "species_name": "CCF",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 7.41,
+        "total": 6720.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 1.5
+    },
+    {
+      "species_name": "BLC",
+      "count": 109,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.24,
+        "total": 12011.0,
+        "quartile": "0.2-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 21.8
+    }
+  ],
+  "total_fish_caught": 683,
+  "dowlknum": "28003100",
+  "fetch_timestamp": 1757117042.3727875
+}

@@ -1,0 +1,122 @@
+{
+  "survey_date": "2015-06-01",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "PMK",
+      "count": 19,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.2,
+        "total": 1732.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.11
+    },
+    {
+      "species_name": "NOP",
+      "count": 25,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.09,
+        "total": 23691.0,
+        "quartile": "1.6-2.9"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 8.33
+    },
+    {
+      "species_name": "BLC",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 222.0,
+        "quartile": "0.2-0.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.33
+    },
+    {
+      "species_name": "BLG",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.47,
+        "total": 426.0,
+        "quartile": "0.1-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "LMB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.07,
+        "total": 34.0,
+        "quartile": "0.3-1.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "NOP",
+      "count": 7,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.21,
+        "total": 7018.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.78
+    },
+    {
+      "species_name": "BLC",
+      "count": 63,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.17,
+        "total": 4722.0,
+        "quartile": "0.2-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 7.0
+    }
+  ],
+  "total_fish_caught": 121,
+  "dowlknum": "01001500",
+  "fetch_timestamp": 1757117050.0210142
+}

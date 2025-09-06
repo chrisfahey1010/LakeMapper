@@ -1,0 +1,186 @@
+{
+  "survey_date": "2013-06-10",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "NOP",
+      "count": 22,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.89,
+        "total": 18836.0,
+        "quartile": "1.5-2.6"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 11.0
+    },
+    {
+      "species_name": "BLC",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 26.0,
+        "quartile": "0.2-0.4"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "HSF",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.42,
+        "total": 191.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "BLG",
+      "count": 345,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.22,
+        "total": 34881.0,
+        "quartile": "0.1-0.5"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 38.33
+    },
+    {
+      "species_name": "YEP",
+      "count": 24,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 1330.0,
+        "quartile": "0.1-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.67
+    },
+    {
+      "species_name": "LMB",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.52,
+        "total": 4135.0,
+        "quartile": "0.3-1.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.67
+    },
+    {
+      "species_name": "BLC",
+      "count": 68,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.27,
+        "total": 8345.0,
+        "quartile": "0.2-0.6"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 7.56
+    },
+    {
+      "species_name": "NOP",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.3,
+        "total": 14588.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 1.56
+    },
+    {
+      "species_name": "PMK",
+      "count": 214,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.28,
+        "total": 27470.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 23.78
+    },
+    {
+      "species_name": "GOS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.06,
+        "total": 29.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "YEP",
+      "count": 17,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.08,
+        "total": 653.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 8.5
+    }
+  ],
+  "total_fish_caught": 714,
+  "dowlknum": "03002900",
+  "fetch_timestamp": 1757117074.7547429
+}

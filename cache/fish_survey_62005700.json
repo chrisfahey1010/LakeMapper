@@ -1,0 +1,682 @@
+{
+  "survey_date": "2012-07-23",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "JND",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 0.25
+    },
+    {
+      "species_name": "BLG",
+      "count": 28,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.09,
+        "total": 1088.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 7.0
+    },
+    {
+      "species_name": "YEB",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 6.82
+    },
+    {
+      "species_name": "PMK",
+      "count": 18,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.06,
+        "total": 498.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 4.5
+    },
+    {
+      "species_name": "GSF",
+      "count": 13,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 2.17
+    },
+    {
+      "species_name": "YEB",
+      "count": 38,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.55,
+        "total": 9440.0,
+        "quartile": "0.4-0.7"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 3.8
+    },
+    {
+      "species_name": "BLC",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.15,
+        "total": 960.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 3.5
+    },
+    {
+      "species_name": "YEP",
+      "count": 43,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 10.75
+    },
+    {
+      "species_name": "LMB",
+      "count": 15,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 3.75
+    },
+    {
+      "species_name": "LMB",
+      "count": 32,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.54,
+        "total": 7800.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 29.89
+    },
+    {
+      "species_name": "WAE",
+      "count": 10,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.69,
+        "total": 12217.0,
+        "quartile": "1.1-3.0"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "BLG",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 11.36
+    },
+    {
+      "species_name": "BLG",
+      "count": 936,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.14,
+        "total": 57480.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 93.6
+    },
+    {
+      "species_name": "HSF",
+      "count": 9,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 20.45
+    },
+    {
+      "species_name": "PMK",
+      "count": 23,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 1302.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.3
+    },
+    {
+      "species_name": "CAP",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.31,
+        "total": 1500.0,
+        "quartile": "1.0-3.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.25
+    },
+    {
+      "species_name": "HSF",
+      "count": 22,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.22,
+        "total": 2146.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.2
+    },
+    {
+      "species_name": "YEP",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "BLC",
+      "count": 136,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.17,
+        "total": 10673.0,
+        "quartile": "0.2-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 13.6
+    },
+    {
+      "species_name": "LMB",
+      "count": 12,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 2.0
+    },
+    {
+      "species_name": "GSF",
+      "count": 43,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 97.73
+    },
+    {
+      "species_name": "GSF",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 105.0,
+        "quartile": "0.1-0.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.2
+    },
+    {
+      "species_name": "BLG",
+      "count": 346,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 86.5
+    },
+    {
+      "species_name": "PMK",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 0.75
+    },
+    {
+      "species_name": "NOP",
+      "count": 44,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.94,
+        "total": 58684.0,
+        "quartile": "1.8-3.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 11.0
+    },
+    {
+      "species_name": "WAE",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 5.07,
+        "total": 2300.0,
+        "quartile": "0.8-3.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "HSF",
+      "count": 58,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 14.5
+    },
+    {
+      "species_name": "BLC",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "GSF",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 3.5
+    },
+    {
+      "species_name": "YEB",
+      "count": 48,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.46,
+        "total": 10086.0,
+        "quartile": "0.4-0.7"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 12.0
+    },
+    {
+      "species_name": "CAP",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.22,
+        "total": 4375.0,
+        "quartile": "2.0-4.5"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.3
+    },
+    {
+      "species_name": "BNM",
+      "count": 18,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "50-ft beach seine",
+      "cpue": 4.5
+    },
+    {
+      "species_name": "WTS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.07,
+        "total": 937.0,
+        "quartile": "1.0-2.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.25
+    },
+    {
+      "species_name": "YEP",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 2.27
+    },
+    {
+      "species_name": "BLG",
+      "count": 77,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 12.83
+    },
+    {
+      "species_name": "PMK",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "YEP",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.05,
+        "total": 24.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "LMB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Backpack electrofishing",
+      "cpue": 2.27
+    },
+    {
+      "species_name": "NOP",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.97,
+        "total": 1323.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.3
+    },
+    {
+      "species_name": "HSF",
+      "count": 26,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 4.33
+    },
+    {
+      "species_name": "BLC",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "15-ft beach seine",
+      "cpue": 0.17
+    },
+    {
+      "species_name": "LMB",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.28,
+        "total": 1161.0,
+        "quartile": "0.2-1.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.2
+    }
+  ],
+  "total_fish_caught": 2060,
+  "dowlknum": "62005700",
+  "fetch_timestamp": 1757117084.7475295
+}

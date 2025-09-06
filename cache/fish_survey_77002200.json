@@ -1,0 +1,122 @@
+{
+  "survey_date": "2023-08-14",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "WAE",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.11,
+        "total": 1505.0,
+        "quartile": "0.7-2.8"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.5
+    },
+    {
+      "species_name": "GSF",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 15.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.17
+    },
+    {
+      "species_name": "PMK",
+      "count": 13,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.13,
+        "total": 771.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.17
+    },
+    {
+      "species_name": "YEB",
+      "count": 16,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.54,
+        "total": 3887.0,
+        "quartile": "0.5-0.9"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 2.67
+    },
+    {
+      "species_name": "BLG",
+      "count": 98,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.09,
+        "total": 3990.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 16.33
+    },
+    {
+      "species_name": "LMB",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.67,
+        "total": 1518.0,
+        "quartile": "0.2-0.7"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.83
+    },
+    {
+      "species_name": "HSF",
+      "count": 28,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.22,
+        "total": 2824.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 4.67
+    }
+  ],
+  "total_fish_caught": 164,
+  "dowlknum": "77002200",
+  "fetch_timestamp": 1757117076.7153873
+}

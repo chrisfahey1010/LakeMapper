@@ -1,0 +1,154 @@
+{
+  "survey_date": "2005-09-13",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "FHM",
+      "count": 200,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 66.67
+    },
+    {
+      "species_name": "WTS",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.41,
+        "total": 553.0,
+        "quartile": "0.4-1.7"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "RBT",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.8,
+        "total": 727.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.67
+    },
+    {
+      "species_name": "WTS",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 1.67
+    },
+    {
+      "species_name": "RBT",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.29,
+        "total": 521.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 1.33
+    },
+    {
+      "species_name": "WTS",
+      "count": 41,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.48,
+        "total": 8877.0,
+        "quartile": "0.6-2.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 4.56
+    },
+    {
+      "species_name": "GOS",
+      "count": 89,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 29.67
+    },
+    {
+      "species_name": "RBT",
+      "count": 7,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.24,
+        "total": 747.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.78
+    },
+    {
+      "species_name": "BCS",
+      "count": 122,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 40.67
+    }
+  ],
+  "total_fish_caught": 473,
+  "dowlknum": "69039700",
+  "fetch_timestamp": 1757117050.4825735
+}

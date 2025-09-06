@@ -1,0 +1,122 @@
+{
+  "survey_date": "1997-04-28",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "YEP",
+      "count": 342,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 5121.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 34.2
+    },
+    {
+      "species_name": "WAE",
+      "count": 10,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.5,
+        "total": 6796.0,
+        "quartile": "1.2-3.5"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "PMK",
+      "count": 212,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 11995.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 21.2
+    },
+    {
+      "species_name": "WTS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.97,
+        "total": 1348.0,
+        "quartile": "0.7-2.3"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "BLH",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 13.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "LMB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.38,
+        "total": 1080.0,
+        "quartile": "0.3-1.1"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "NOP",
+      "count": 39,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.33,
+        "total": 41166.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 3.9
+    }
+  ],
+  "total_fish_caught": 606,
+  "dowlknum": "49007300",
+  "fetch_timestamp": 1757117059.34729
+}

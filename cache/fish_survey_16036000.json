@@ -1,0 +1,266 @@
+{
+  "survey_date": "2022-07-11",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "NOP",
+      "count": 18,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.9,
+        "total": 15529.0,
+        "quartile": "1.5-2.4"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 2.0
+    },
+    {
+      "species_name": "BLG",
+      "count": 17,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 32.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 1.89
+    },
+    {
+      "species_name": "YEP",
+      "count": 109,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 6.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 12.11
+    },
+    {
+      "species_name": "WTS",
+      "count": 41,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.15,
+        "total": 39932.0,
+        "quartile": "1.7-2.4"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 4.56
+    },
+    {
+      "species_name": "BLG",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.32,
+        "total": 143.0,
+        "quartile": "0.1-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "NOP",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 7.02,
+        "total": 6365.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "WAE",
+      "count": 66,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.69,
+        "total": 20713.0,
+        "quartile": "0.7-1.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 7.33
+    },
+    {
+      "species_name": "FND",
+      "count": 17,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 1.89
+    },
+    {
+      "species_name": "SMB",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.85,
+        "total": 4203.0,
+        "quartile": "0.3-2.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.56
+    },
+    {
+      "species_name": "NOP",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.17,
+        "total": 5906.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.67
+    },
+    {
+      "species_name": "BLC",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.68,
+        "total": 1225.0,
+        "quartile": "0.3-0.9"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.44
+    },
+    {
+      "species_name": "SMB",
+      "count": 23,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.07,
+        "total": 762.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 2.56
+    },
+    {
+      "species_name": "WAE",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.75,
+        "total": 338.0,
+        "quartile": "0.8-1.5"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.11
+    },
+    {
+      "species_name": "CSH",
+      "count": 78,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "1/4-in trap nets",
+      "cpue": 8.67
+    },
+    {
+      "species_name": "SMB",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.88,
+        "total": 796.0,
+        "quartile": "0.2-0.6"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.22
+    },
+    {
+      "species_name": "YEP",
+      "count": 66,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.11,
+        "total": 3187.0,
+        "quartile": "0.1-0.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 7.33
+    }
+  ],
+  "total_fish_caught": 456,
+  "dowlknum": "16036000",
+  "fetch_timestamp": 1757117089.8587818
+}

@@ -1,0 +1,42 @@
+{
+  "survey_date": "2009-08-03",
+  "survey_method": null,
+  "survey_type": "Targeted Survey",
+  "fish_species": [
+    {
+      "species_name": "BLC",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.33,
+        "total": 900.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 7.09
+    },
+    {
+      "species_name": "LMB",
+      "count": 77,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.38,
+        "total": 48237.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 90.94
+    }
+  ],
+  "total_fish_caught": 83,
+  "dowlknum": "86005600",
+  "fetch_timestamp": 1757117115.117331
+}

@@ -1,0 +1,26 @@
+{
+  "survey_date": "2013-06-24",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "YEP",
+      "count": 132,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.04,
+        "total": 2318.0,
+        "quartile": "0.1-0.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 66.0
+    }
+  ],
+  "total_fish_caught": 132,
+  "dowlknum": "69030600",
+  "fetch_timestamp": 1757117109.9648068
+}

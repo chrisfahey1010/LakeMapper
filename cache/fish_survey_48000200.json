@@ -1,0 +1,858 @@
+{
+  "survey_date": "2024-09-01",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "BUB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 2.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "TLC",
+      "count": 6586,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 31206.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 253.31
+    },
+    {
+      "species_name": "BLG",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.24,
+        "total": 435.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.08
+    },
+    {
+      "species_name": "GSF",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.06,
+        "total": 26.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "PMK",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.09,
+        "total": 193.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "HSF",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.34,
+        "total": 154.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.02
+    },
+    {
+      "species_name": "BOF",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 4.43,
+        "total": 2009.0,
+        "quartile": "3.0-4.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.02
+    },
+    {
+      "species_name": "WAE",
+      "count": 119,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 335.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 297.5
+    },
+    {
+      "species_name": "BLC",
+      "count": 13,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.18,
+        "total": 1084.0,
+        "quartile": "0.2-0.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.25
+    },
+    {
+      "species_name": "BKS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "BLC",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 4.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 0.08
+    },
+    {
+      "species_name": "LND",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "BRB",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.47,
+        "total": 1337.0,
+        "quartile": "0.6-1.2"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.04
+    },
+    {
+      "species_name": "BUB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.12,
+        "total": 56.0,
+        "quartile": "1.1-2.1"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.02
+    },
+    {
+      "species_name": "MMS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "LMB",
+      "count": 12,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.97,
+        "total": 16163.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 1.2
+    },
+    {
+      "species_name": "BNM",
+      "count": 21,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 7.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 52.5
+    },
+    {
+      "species_name": "MUE",
+      "count": 14,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 25.35,
+        "total": 161001.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 0.15
+    },
+    {
+      "species_name": "WAE",
+      "count": 921,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.4,
+        "total": 583908.0,
+        "quartile": "0.9-1.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 17.71
+    },
+    {
+      "species_name": "WAE",
+      "count": 227,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 819.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 8.73
+    },
+    {
+      "species_name": "LGP",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "BNM",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 0.04
+    },
+    {
+      "species_name": "JND",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "WAE",
+      "count": 1524,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 7789.0,
+        "quartile": "N/A"
+      },
+      "gear": "Fall electrofishing",
+      "cpue": 371.1
+    },
+    {
+      "species_name": "SMB",
+      "count": 410,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.75,
+        "total": 511567.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 40.93
+    },
+    {
+      "species_name": "YEP",
+      "count": 75,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 85.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 187.5
+    },
+    {
+      "species_name": "RKB",
+      "count": 6,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.05,
+        "total": 126.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 15.0
+    },
+    {
+      "species_name": "NOP",
+      "count": 161,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 5.17,
+        "total": 377482.0,
+        "quartile": "N/A"
+      },
+      "gear": "Musky trap nets",
+      "cpue": 2.64
+    },
+    {
+      "species_name": "LMB",
+      "count": 15,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.05,
+        "total": 352.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 37.5
+    },
+    {
+      "species_name": "SPO",
+      "count": 85,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 37.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 212.5
+    },
+    {
+      "species_name": "YEP",
+      "count": 2040,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.3,
+        "total": 276530.0,
+        "quartile": "0.2-0.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 39.23
+    },
+    {
+      "species_name": "RKB",
+      "count": 115,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.34,
+        "total": 17938.0,
+        "quartile": "0.3-0.6"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 2.21
+    },
+    {
+      "species_name": "NOP",
+      "count": 88,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.15,
+        "total": 125727.0,
+        "quartile": "2.4-4.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.69
+    },
+    {
+      "species_name": "TPM",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 5.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.02
+    },
+    {
+      "species_name": "YEP",
+      "count": 3762,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.01,
+        "total": 16356.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 144.69
+    },
+    {
+      "species_name": "LMB",
+      "count": 11,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.47,
+        "total": 2330.0,
+        "quartile": "0.2-1.0"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.21
+    },
+    {
+      "species_name": "LMB",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 0.15
+    },
+    {
+      "species_name": "SMB",
+      "count": 27,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 49.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 67.5
+    },
+    {
+      "species_name": "SPO",
+      "count": 171,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 91.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 6.58
+    },
+    {
+      "species_name": "WTS",
+      "count": 5,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 69.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 12.5
+    },
+    {
+      "species_name": "MUE",
+      "count": 38,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 23.74,
+        "total": 409210.0,
+        "quartile": "N/A"
+      },
+      "gear": "Musky trap nets",
+      "cpue": 0.62
+    },
+    {
+      "species_name": "WAE",
+      "count": 27,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.09,
+        "total": 25568.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard electrofishing",
+      "cpue": 2.7
+    },
+    {
+      "species_name": "SMB",
+      "count": 128,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.88,
+        "total": 109308.0,
+        "quartile": "0.8-1.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 2.46
+    },
+    {
+      "species_name": "TLC",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "WTS",
+      "count": 36,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 2.33,
+        "total": 38101.0,
+        "quartile": "1.6-2.1"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.69
+    },
+    {
+      "species_name": "MTS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "BLG",
+      "count": 15,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.02,
+        "total": 137.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 37.5
+    },
+    {
+      "species_name": "WTS",
+      "count": 2,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.03,
+        "total": 25.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 0.08
+    },
+    {
+      "species_name": "PMK",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.02,
+        "total": 29.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 7.5
+    },
+    {
+      "species_name": "NOP",
+      "count": 444,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 3.78,
+        "total": 761689.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 4.83
+    },
+    {
+      "species_name": "TRP",
+      "count": 32,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 70.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special gill nets",
+      "cpue": 1.23
+    },
+    {
+      "species_name": "BLC",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.09,
+        "total": 42.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special electrofishing",
+      "cpue": 2.5
+    },
+    {
+      "species_name": "TLC",
+      "count": 190,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.37,
+        "total": 117755.0,
+        "quartile": "0.4-0.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 3.65
+    }
+  ],
+  "total_fish_caught": 17355,
+  "dowlknum": "48000200",
+  "fetch_timestamp": 1757117125.823763
+}

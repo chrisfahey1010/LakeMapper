@@ -1,0 +1,26 @@
+{
+  "survey_date": "1979-07-26",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "BLB",
+      "count": 19,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.38,
+        "total": 7.2,
+        "quartile": "0.1-0.5"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 19.0
+    }
+  ],
+  "total_fish_caught": 19,
+  "dowlknum": "27015100",
+  "fetch_timestamp": 1757117053.9227057
+}

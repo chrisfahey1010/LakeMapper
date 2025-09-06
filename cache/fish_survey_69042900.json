@@ -1,0 +1,90 @@
+{
+  "survey_date": "2023-06-20",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "CIS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.18,
+        "total": 82.0,
+        "quartile": "N/A"
+      },
+      "gear": "Shallow gill nets",
+      "cpue": 0.33
+    },
+    {
+      "species_name": "CRC",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.34,
+        "total": 155.0,
+        "quartile": "N/A"
+      },
+      "gear": "Shallow gill nets",
+      "cpue": 0.33
+    },
+    {
+      "species_name": "LAT",
+      "count": 10,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.25,
+        "total": 5662.0,
+        "quartile": "N/A"
+      },
+      "gear": "Shallow gill nets",
+      "cpue": 3.33
+    },
+    {
+      "species_name": "LAT",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.05,
+        "total": 1905.0,
+        "quartile": "N/A"
+      },
+      "gear": "Deep gill nets",
+      "cpue": 1.33
+    },
+    {
+      "species_name": "WTS",
+      "count": 17,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.52,
+        "total": 3990.0,
+        "quartile": "N/A"
+      },
+      "gear": "Shallow gill nets",
+      "cpue": 5.67
+    }
+  ],
+  "total_fish_caught": 33,
+  "dowlknum": "69042900",
+  "fetch_timestamp": 1757117074.4101164
+}

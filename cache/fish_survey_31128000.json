@@ -1,0 +1,42 @@
+{
+  "survey_date": "1990-08-29",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "CSH",
+      "count": 126,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 42.0
+    },
+    {
+      "species_name": "BLC",
+      "count": 19,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.18,
+        "total": 3.5,
+        "quartile": "N/A"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 6.33
+    }
+  ],
+  "total_fish_caught": 145,
+  "dowlknum": "31128000",
+  "fetch_timestamp": 1757117063.863479
+}

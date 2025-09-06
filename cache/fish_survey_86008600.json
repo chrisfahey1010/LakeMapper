@@ -1,0 +1,90 @@
+{
+  "survey_date": "2017-09-11",
+  "survey_method": null,
+  "survey_type": "Targeted Survey",
+  "fish_species": [
+    {
+      "species_name": "BLB",
+      "count": 429,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.09,
+        "total": 16960.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 71.5
+    },
+    {
+      "species_name": "GSF",
+      "count": 238,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.06,
+        "total": 6312.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 39.67
+    },
+    {
+      "species_name": "BRB",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.09,
+        "total": 1978.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 0.67
+    },
+    {
+      "species_name": "WTS",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.46,
+        "total": 661.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 0.17
+    },
+    {
+      "species_name": "CAP",
+      "count": 10,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 4.56,
+        "total": 20691.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 1.67
+    }
+  ],
+  "total_fish_caught": 682,
+  "dowlknum": "86008600",
+  "fetch_timestamp": 1757117077.0345366
+}

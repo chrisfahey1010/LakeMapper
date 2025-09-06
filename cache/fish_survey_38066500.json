@@ -1,0 +1,26 @@
+{
+  "survey_date": "2021-09-27",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "BKT",
+      "count": 25,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.69,
+        "total": 7833.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 12.5
+    }
+  ],
+  "total_fish_caught": 25,
+  "dowlknum": "38066500",
+  "fetch_timestamp": 1757117119.8271422
+}

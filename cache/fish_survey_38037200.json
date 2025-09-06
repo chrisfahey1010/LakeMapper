@@ -1,0 +1,74 @@
+{
+  "survey_date": "1986-09-16",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "BUB",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.2,
+        "total": 1.2,
+        "quartile": "0.7-1.9"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.1
+    },
+    {
+      "species_name": "LAT",
+      "count": 10,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.69,
+        "total": 6.9,
+        "quartile": "1.2-3.1"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "WTS",
+      "count": 4,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.15,
+        "total": 0.6,
+        "quartile": "1.6-2.4"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 0.4
+    },
+    {
+      "species_name": "TLC",
+      "count": 232,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.11,
+        "total": 26.2,
+        "quartile": "0.1-0.7"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 23.2
+    }
+  ],
+  "total_fish_caught": 247,
+  "dowlknum": "38037200",
+  "fetch_timestamp": 1757117023.7463882
+}

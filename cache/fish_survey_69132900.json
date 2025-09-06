@@ -1,0 +1,26 @@
+{
+  "survey_date": "2005-05-02",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "RBT",
+      "count": 3,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.29,
+        "total": 1760.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.5
+    }
+  ],
+  "total_fish_caught": 3,
+  "dowlknum": "69132900",
+  "fetch_timestamp": 1757117123.5494115
+}

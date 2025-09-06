@@ -1,0 +1,90 @@
+{
+  "survey_date": "2024-09-25",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "NRD",
+      "count": 1100,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Trapnet - Mini Fyke",
+      "cpue": 550.0
+    },
+    {
+      "species_name": "BST",
+      "count": 275,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Trapnet - Mini Fyke",
+      "cpue": 137.5
+    },
+    {
+      "species_name": "RBT",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.43,
+        "total": 196.0,
+        "quartile": "N/A"
+      },
+      "gear": "Open-water angling",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "PRD",
+      "count": 1100,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Trapnet - Mini Fyke",
+      "cpue": 550.0
+    },
+    {
+      "species_name": "FHM",
+      "count": 15,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.0,
+        "total": 0.0,
+        "quartile": "N/A"
+      },
+      "gear": "Trapnet - Mini Fyke",
+      "cpue": 7.5
+    }
+  ],
+  "total_fish_caught": 2491,
+  "dowlknum": "38090900",
+  "fetch_timestamp": 1757117031.386363
+}

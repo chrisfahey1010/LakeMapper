@@ -1,0 +1,58 @@
+{
+  "survey_date": "2024-09-30",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "LAT",
+      "count": 1,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 8.95,
+        "total": 4061.0,
+        "quartile": "0.9-4.3"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 1.0
+    },
+    {
+      "species_name": "SPT",
+      "count": 35,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.68,
+        "total": 10870.0,
+        "quartile": "N/A"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 35.0
+    },
+    {
+      "species_name": "WTS",
+      "count": 27,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.12,
+        "total": 13659.0,
+        "quartile": "0.6-2.0"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 27.0
+    }
+  ],
+  "total_fish_caught": 63,
+  "dowlknum": "38040800",
+  "fetch_timestamp": 1757117066.1728728
+}

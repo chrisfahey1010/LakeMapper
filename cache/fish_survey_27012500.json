@@ -1,0 +1,42 @@
+{
+  "survey_date": "1992-06-18",
+  "survey_method": null,
+  "survey_type": "Standard Survey",
+  "fish_species": [
+    {
+      "species_name": "BLB",
+      "count": 106,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.15,
+        "total": 16.0,
+        "quartile": "0.2-0.4"
+      },
+      "gear": "Standard gill nets",
+      "cpue": 106.0
+    },
+    {
+      "species_name": "BLB",
+      "count": 2950,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.14,
+        "total": 411.6,
+        "quartile": "0.2-0.4"
+      },
+      "gear": "Standard trap nets",
+      "cpue": 737.5
+    }
+  ],
+  "total_fish_caught": 3056,
+  "dowlknum": "27012500",
+  "fetch_timestamp": 1757117071.6044028
+}

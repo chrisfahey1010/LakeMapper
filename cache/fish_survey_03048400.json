@@ -1,0 +1,26 @@
+{
+  "survey_date": "2023-05-08",
+  "survey_method": null,
+  "survey_type": "Targeted Survey",
+  "fish_species": [
+    {
+      "species_name": "BLB",
+      "count": 9,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 0.59,
+        "total": 2391.0,
+        "quartile": "N/A"
+      },
+      "gear": "Special trap nets",
+      "cpue": 1.8
+    }
+  ],
+  "total_fish_caught": 9,
+  "dowlknum": "03048400",
+  "fetch_timestamp": 1757117099.4300437
+}

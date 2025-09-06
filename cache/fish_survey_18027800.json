@@ -1,0 +1,26 @@
+{
+  "survey_date": "2014-10-13",
+  "survey_method": null,
+  "survey_type": "Targeted Survey",
+  "fish_species": [
+    {
+      "species_name": "BKT",
+      "count": 65,
+      "length_stats": {
+        "average": null,
+        "minimum": null,
+        "maximum": null
+      },
+      "weight_stats": {
+        "average": 1.2,
+        "total": 35457.0,
+        "quartile": "N/A"
+      },
+      "gear": "Single-frame trap nets",
+      "cpue": 3.25
+    }
+  ],
+  "total_fish_caught": 65,
+  "dowlknum": "18027800",
+  "fetch_timestamp": 1757117089.3641152
+}
