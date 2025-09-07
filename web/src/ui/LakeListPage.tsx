@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { indexJsonPath } from '@/lib/dataPaths'
 
 type LakeIndexRecord = {
   dowlknum: string
@@ -16,7 +17,7 @@ export default function LakeListPage() {
   const [query, setQuery] = useState('')
 
   useEffect(() => {
-    fetch('/output/lake_index.json')
+    fetch(indexJsonPath())
       .then(r => r.json())
       .then(setRecords)
       .catch(() => setRecords([]))

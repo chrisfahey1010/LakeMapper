@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
+import { lakeContoursPath, lakeGeojsonPath, lakeMetadataPath } from '@/lib/dataPaths'
 
 type LakeMeta = {
   dowlknum: string
@@ -25,9 +26,9 @@ export default function LakeDetailPage() {
 
   useEffect(() => {
     if (!dowlknum) return
-    fetch(`/output/metadata/lake_${dowlknum}.json`).then(r => r.json()).then(setMeta).catch(() => setMeta(null))
-    fetch(`/output/geojson/lake_${dowlknum}.geojson`).then(r => r.json()).then(setMerged).catch(() => setMerged(null))
-    fetch(`/output/contours/contours_${dowlknum}.geojson`).then(r => r.json()).then(setContours).catch(() => setContours(null))
+    fetch(lakeMetadataPath(dowlknum)).then(r => r.json()).then(setMeta).catch(() => setMeta(null))
+    fetch(lakeGeojsonPath(dowlknum)).then(r => r.json()).then(setMerged).catch(() => setMerged(null))
+    fetch(lakeContoursPath(dowlknum)).then(r => r.json()).then(setContours).catch(() => setContours(null))
   }, [dowlknum])
 
   const bounds = useMemo(() => {
